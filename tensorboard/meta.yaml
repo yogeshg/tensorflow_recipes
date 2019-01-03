@@ -2,7 +2,7 @@
 
 package:
   name: tensorboard
-  version: {{ version }}.db1
+  version: {{ version }}
 
 source:
   fn: tensorboard-{{ version }}.tar.gz                                         # [unix]
